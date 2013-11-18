@@ -1,0 +1,20 @@
+[
+  {'date': '2013-11-23',
+   'time': '8:30pm',
+   'title': 'The 123s w/Busman's Holiday',
+   'venue': 'The Bishop Bar',
+   'venue-url': 'http://thebishopbar.com/events',
+   'address': '123 S Walnut St, Bloomington, IN 47408',
+   'city': 'Bloomington, IN'
+   },
+  {'date': '2013-11-22',
+   'time': 'noon',
+   'title': 'The 123s present "The Quest for the Frist Rock'n'roll Record, 1945-1954"',
+   'venue': 'Hoagy Carmichael Room',
+   'venue-url': 'http://thebishopbar.com/events',
+   'address': 'Morrison Hall 006, Indiana University',
+   'city': 'Bloomington, IN'
+   },
+
+
+]
