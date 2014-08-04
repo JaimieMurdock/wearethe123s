@@ -10,6 +10,12 @@ html {
     padding: 40px;
     border-radius: 10px;
 }
+#shows {
+    background-color: rgba(216,216,216,0.8);
+    padding: 40px;
+    border-radius: 10px;
+    display:none;
+}
 
 .vid {
     background-color: #000;    
